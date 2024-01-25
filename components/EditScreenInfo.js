@@ -14,7 +14,7 @@ export default function EditScreenInfo({ path }) {
           lightColor="rgba(0,0,0,0.8)"
           darkColor="rgba(255,255,255,0.8)"
         >
-          Open up the code for this screen:
+          Ciao:
         </Text>
 
         <View
